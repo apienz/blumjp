@@ -8,7 +8,7 @@ git clone https://github.com/apienz/blumjp.git
 
 cd blumjp
 
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 
 nano tgwebapp.txt
 
